@@ -1,4 +1,4 @@
-Hi, I’m @Poli-G
+Hi, I’m Polina
 I’m interested in test automation, Robot Framework, Python, Selenium, BDD, DevOps.
 I’m currently learning Robot Framework and Python 
 ️I’m looking to collaborate on open-source projects related to test automation and contribute to educational resources for beginners.
